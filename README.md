@@ -1,5 +1,5 @@
-#Benutzer
-- Id - Detaillierte Informationen über den - Benutzer (uid, gid und Gruppe).
+# Benutzer
+- `Id` - Detaillierte Informationen über den - Benutzer (uid, gid und Gruppe).
 - last - Eine Liste mit Informationen über die letzten Anmeldungen, einschließlich Zeit, Benutzername, IP-Adresse und Sitzungsdauer.
 - who - Autorisierte Benutzer anzeigen
 - groupadd "testgroup" - Erstellt eine Gruppe mit dem Namen "testgroup".
